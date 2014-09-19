@@ -560,7 +560,7 @@ function muteMedia() {
 
   var muteunmute = document.getElementById('muteunmute');
   // It's recommended that setReceiverVolumeLevel be used
-  // but media stream volume can be set instread as shown in the
+  // but media stream volume can be set instead as shown in the
   // setMediaVolume(currentVolume, true);
   if (muteunmute.innerHTML == 'Mute media') {
     muteunmute.innerHTML = 'Unmute media';
