@@ -7,7 +7,7 @@ var CAST_API_INITIALIZATION_DELAY = 1000;
  **/
 var PROGRESS_BAR_UPDATE_DELAY = 1000;
 /**
- * Session idle time out in miliseconds
+ * Session idle time out in milliseconds
  **/
 var SESSION_IDLE_TIMEOUT = 300000;
 /**
