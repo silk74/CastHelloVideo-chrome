@@ -60,9 +60,11 @@ var timer = null;
 /**
  * Call initialization
  */
-if (!chrome.cast || !chrome.cast.isAvailable) {
-  setTimeout(initializeCastApi, CAST_API_INITIALIZATION_DELAY);
-}
+window['__onGCastApiAvailable'] = function(isAvailable) {
+  if (isAvailable) {
+    initializeCastApi();
+  }
+};
 
 /**
  * initialization
