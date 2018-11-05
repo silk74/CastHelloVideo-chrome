@@ -1,7 +1,7 @@
 # CastHelloVideo-chrome
 ===============================
 
-This Google Cast demo app shows how to cast videos from a Chrome browser using Cast Chrome Sender SDK. It demonstrates basic functionalities of the Chrome Sender SDK for media contents such as play, pause, resume, seek, set volume, mute/unmute. 
+This Google Cast demo app shows how to cast videos from a Chrome browser using Cast Chrome Sender SDK. It demonstrates basic functionalities of the Chrome Sender SDK for media contents such as play, pause, resume, seek, set volume, mute/unmute.
 
 ## Setup Instructions
 
@@ -11,7 +11,7 @@ This Google Cast demo app shows how to cast videos from a Chrome browser using C
  3. Install appropriate Chrome Cast extension
 
  See the developer guide and release notes at https://developers.google.com/cast/ for more details.
- 
+
 # Steps:
  1. Put all files on your own server
  2. Use the default media receiver app: no change or change YOUR_APP_ID to your own in helloVideos.js
@@ -20,16 +20,20 @@ This Google Cast demo app shows how to cast videos from a Chrome browser using C
 ## Documentation
 * Cast APIs: http://developers.google.com/cast/docs/chrome_sender
 
-## References and How to report bugs
+## References
+* Developer Guides: https://developers.google.com/cast/docs/developers
 * Cast APIs: http://developers.google.com/cast/docs/reference/chrome
-* Design Checklist (http://developers.google.com/cast/docs/design_checklist)
-* If you find any issues, please open a bug here on GitHub
+* Design Checklist: http://developers.google.com/cast/docs/design_checklist
 
-How to make contributions?
+## How to report bugs
+* For Cast SDK issues: https://developers.google.com/cast/docs/support
+* For sample apps issues, please open a bug here on GitHub
+
+## How to make contributions?
 Please read and follow the steps in the CONTRIBUTING.md
 
-License
-See LICENSE.md
+## License
+See [LICENSE](LICENSE)
 
 ## Terms
 Your use of this sample is subject to, and by using or downloading the sample files you agree to comply with, the [Google APIs Terms of Service](https://developers.google.com/terms/) and the [Google Cast SDK Additional Developer Terms of Service](https://developers.google.com/cast/docs/terms/).
