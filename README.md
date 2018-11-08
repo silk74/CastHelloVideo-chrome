@@ -1,5 +1,4 @@
 # CastHelloVideo-chrome
-===============================
 
 This Google Cast demo app shows how to cast videos from a Chrome browser using Cast Chrome Sender SDK. It demonstrates basic functionalities of the Chrome Sender SDK for media contents such as play, pause, resume, seek, set volume, mute/unmute.
 
@@ -18,19 +17,19 @@ This Google Cast demo app shows how to cast videos from a Chrome browser using C
  4. Open a browser and point to your page at http://[YOUR_SERVER_LOCATION]/helloVideos/index.html
 
 ## Documentation
-* Cast APIs: http://developers.google.com/cast/docs/chrome_sender
+* [Google Cast Chrome Sender Overview](http://developers.google.com/cast/docs/chrome_sender/)
+* [Developer Guides](https://developers.google.com/cast/docs/developers)
 
 ## References
-* Developer Guides: https://developers.google.com/cast/docs/developers
-* Cast APIs: http://developers.google.com/cast/docs/reference/chrome
-* Design Checklist: http://developers.google.com/cast/docs/design_checklist
+* [Chrome Sender Reference](http://developers.google.com/cast/docs/reference/chrome)
+* [Design Checklist](http://developers.google.com/cast/docs/design_checklist)
 
 ## How to report bugs
-* For Cast SDK issues: https://developers.google.com/cast/docs/support
-* For sample apps issues, please open a bug here on GitHub
+* [Google Cast SDK Support](https://developers.google.com/cast/docs/support)
+* For sample apps issues, please open a bug here on GitHub.
 
 ## How to make contributions?
-Please read and follow the steps in the CONTRIBUTING.md
+Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 See [LICENSE](LICENSE)
@@ -39,4 +38,4 @@ See [LICENSE](LICENSE)
 Your use of this sample is subject to, and by using or downloading the sample files you agree to comply with, the [Google APIs Terms of Service](https://developers.google.com/terms/) and the [Google Cast SDK Additional Developer Terms of Service](https://developers.google.com/cast/docs/terms/).
 
 ## Google+
- Google Cast Developers Community on Google+ [http://goo.gl/TPLDxj](http://goo.gl/TPLDxj)
+[Google Cast Developers Community on Google+](http://goo.gl/TPLDxj)
